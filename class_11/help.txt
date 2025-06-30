@@ -1,0 +1,18 @@
+id
+category_id
+featured_ph oto
+name
+slug
+quantity
+regular_price
+sale_price
+short_description
+description
+sku
+size
+color
+capacity
+weight
+pocket
+water_resistance
+warranty
